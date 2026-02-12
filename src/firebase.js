@@ -5,12 +5,12 @@ import { getFirestore } from 'firebase/firestore';
 // ⚠️ SOSTITUISCI QUESTI VALORI CON I TUOI DALLA CONSOLE FIREBASE
 // Guarda il passo 4.2 della guida per trovare queste informazioni
 const firebaseConfig = {
-  apiKey: "LA-TUA-API-KEY-QUI",
-  authDomain: "il-tuo-progetto.firebaseapp.com",
-  projectId: "il-tuo-project-id",
-  storageBucket: "il-tuo-progetto.appspot.com",
-  messagingSenderId: "123456789012",
-  appId: "1:123456789012:web:abcdef123456"
+  apiKey: "AIzaSyC3G38CzLUJerTxIedQz2a8ERWvqwOR82s",
+  authDomain: "beehind-studio.firebaseapp.com",
+  projectId: "beehind-studio",
+  storageBucket: "beehind-studio.firebasestorage.app",
+  messagingSenderId: "737320600382",
+  appId: "1:737320600382:web:8540d21914f40d6ccfa26f"
 };
 
 // Inizializza Firebase
